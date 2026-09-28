@@ -18,7 +18,7 @@ Creator of the **Japko Multiverse** ecosystem. My biggest passion is building ra
 * **Japkopedia** - AI-powered RAG Discord assistant.
 
 ##  Web3 & Tokens
-* **[Japko The Coin](https://pump.fun/coin/HzvkXv8sNpaExXKXgSZZN6Ae6LmwuVRrvQbQKE7Npump) ($JAPKO)** - Official token of the ecosystem.
+* **[Japko The Coin](https://pump.fun/coin/HzvkXv8sNpaExXKXgSZZN6Ae6LmwuVRrvQbQKE7Npump)** - Official token of the ecosystem.
 
 ---
 
