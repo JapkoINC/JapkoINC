@@ -1,6 +1,6 @@
 #  Hi, I'm Japko - Jack of All Trades
 
-Creator of the **Japko Multiverse** ecosystem. My biggest passion is building random, absurd, and over-engineered projects just because I can — ranging from gamedev and literature to custom OS engineering.
+Creator of the **Japko Multiverse** ecosystem. My biggest passion is building random, absurd, and over-engineered projects just because I can - ranging from gamedev and literature to custom OS engineering.
 
 > *"If an idea sounds completely random or unnecessary, that's exactly why I'll build it."*
 
