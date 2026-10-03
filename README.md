@@ -21,10 +21,12 @@ Creator of the **Japko Multiverse** ecosystem. My biggest passion is building ra
 * **[Japko The Coin](https://pump.fun/coin/HzvkXv8sNpaExXKXgSZZN6Ae6LmwuVRrvQbQKE7Npump)** - Official token of the ecosystem.
 
 ---
+## Anything Else
+* **[Japko The Extension](https://github.com/JapkoINC/Japko-The-Extension)** - the extension waiting for review
 
 ##  Future Roadmap (Random Project Queue)
 - [x] Launch Japko The Game
 - [x] Publish Japko the Book
 - [x] Build Japko OS Live ISO
 - [x] Launch Japko The Coin
-- [ ] Create Japko The Extension
+- [x] Create Japko The Extension
