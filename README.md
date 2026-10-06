@@ -22,7 +22,7 @@ Creator of the **Japko Multiverse** ecosystem. My biggest passion is building ra
 
 ---
 ## Anything Else
-* **[Japko The Extension](https://github.com/JapkoINC/Japko-The-Extension)** - the extension waiting for review
+* **[Japko The Extension](https://github.com/JapkoINC/Japko-The-Extension)** - [the extension](https://addons.mozilla.org/pl/firefox/addon/japko-the-extension/)
 
 ##  Future Roadmap (Random Project Queue)
 - [x] Launch Japko The Game
